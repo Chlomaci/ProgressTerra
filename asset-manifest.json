@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProgressTerra/static/css/main.4bc2aa36.css",
+    "main.js": "/ProgressTerra/static/js/main.95aa606c.js",
+    "index.html": "/ProgressTerra/index.html",
+    "main.4bc2aa36.css.map": "/ProgressTerra/static/css/main.4bc2aa36.css.map",
+    "main.95aa606c.js.map": "/ProgressTerra/static/js/main.95aa606c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bc2aa36.css",
+    "static/js/main.95aa606c.js"
+  ]
+}
